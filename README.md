@@ -1,3 +1,5 @@
+Program on a Higher Level. Write elegant functional code to analyze data that's big or small
+
 This cheat sheet originated from the MOOC Functional Programming Principles in Scala, credits to Laurent Poulain.
 
 ## Evaluation Rules

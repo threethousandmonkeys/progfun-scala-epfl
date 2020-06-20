@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/Eva/IdeaProjects/progfun-scala-epfl/progfun/build.sbt","00372b8f7a025e491b718b5c39352da3616e2f49"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/Eva/IdeaProjects/progfun-scala-epfl/progfun/build.sbt","6e2512daa359d75d5bc6b21a680c3cabb1c0cd8c"]],"lastModifiedTimes":[]}]
