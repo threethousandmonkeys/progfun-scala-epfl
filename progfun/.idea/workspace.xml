@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43bc228c-456a-4e50-97b3-6ad463ccc179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week03/rationals.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week03/MyHello.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week03/intsets.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week03/override.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/week01/session.sc" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/week01/session.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Scala Worksheet" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
@@ -58,7 +64,40 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="5" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week03.MyHello" />
+      <module name="progfun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,12 +122,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="149" y="50" key="SettingsEditor" timestamp="1593245621126">
+    <state x="128" y="23" key="#Project_Structure" timestamp="1593749232502">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="149" y="50" key="SettingsEditor/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593245621126" />
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593749232502" />
+    <state x="274" y="106" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1593748255072">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="274" y="106" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593748255072" />
+    <state x="367" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593748509615">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="367" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593748509615" />
+    <state x="149" y="23" key="SettingsEditor" timestamp="1593748215134">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593748215134" />
     <state x="303" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1593322160599">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
