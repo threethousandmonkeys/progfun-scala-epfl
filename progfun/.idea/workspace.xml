@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43bc228c-456a-4e50-97b3-6ad463ccc179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week03/MyHello.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week03/intsets.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week03/override.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week03/scratch.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week04/List.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/week04/nth.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/week01/session.sc" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/week01/session.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Scala Worksheet" />
         <option value="Package Object" />
+        <option value="Scala Worksheet" />
       </list>
     </option>
   </component>
@@ -72,13 +69,20 @@
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="5" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/week04" />
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+      <recent name="$PROJECT_DIR$/src/main/scala/week03" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="week03.MyHello" />
       <module name="progfun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week03.*" />
+          <option name="PATTERN" value="week04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,6 +141,22 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="367" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593748509615" />
+    <state width="1238" height="302" key="GridCell.Tab.0.bottom" timestamp="1593754721776">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="302" key="GridCell.Tab.0.bottom/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593754721776" />
+    <state width="1238" height="302" key="GridCell.Tab.0.center" timestamp="1593754721775">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="302" key="GridCell.Tab.0.center/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593754721775" />
+    <state width="1238" height="302" key="GridCell.Tab.0.left" timestamp="1593754721774">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="302" key="GridCell.Tab.0.left/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593754721774" />
+    <state width="1238" height="302" key="GridCell.Tab.0.right" timestamp="1593754721775">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="302" key="GridCell.Tab.0.right/0.23.1280.777/-376.-1057.1920.1057@0.23.1280.777" timestamp="1593754721775" />
     <state x="149" y="23" key="SettingsEditor" timestamp="1593748215134">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
