@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43bc228c-456a-4e50-97b3-6ad463ccc179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week03/scratch.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week04/List.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/week04/nth.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="43bc228c-456a-4e50-97b3-6ad463ccc179" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
