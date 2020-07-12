@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/Eva/IdeaProjects/progfun-scala-epfl/patmat/src/test/scala/patmat/HuffmanSuite.scala:7:10: not found: value Huffman[0m
+[0m[[0m[31merror[0m] [0m[0m  import Huffman._[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Eva/IdeaProjects/progfun-scala-epfl/patmat/src/test/scala/patmat/HuffmanSuite.scala:17:23: not found: value weight[0m
+[0m[[0m[31merror[0m] [0m[0m      assertEquals(5, weight(t1))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Eva/IdeaProjects/progfun-scala-epfl/patmat/src/test/scala/patmat/HuffmanSuite.scala:23:39: not found: value chars[0m
+[0m[[0m[31merror[0m] [0m[0m      assertEquals(List('a','b','d'), chars(t2))[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Eva/IdeaProjects/progfun-scala-epfl/patmat/src/test/scala/patmat/HuffmanSuite.scala:27:84: not found: value string2Chars[0m
+[0m[[0m[31merror[0m] [0m[0m    assertEquals(List('h', 'e', 'l', 'l', 'o', ',', ' ', 'w', 'o', 'r', 'l', 'd'), string2Chars("hello, world"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Eva/IdeaProjects/progfun-scala-epfl/patmat/src/test/scala/patmat/HuffmanSuite.scala:31:63: not found: value makeOrderedLeafList[0m
+[0m[[0m[31merror[0m] [0m[0m    assertEquals(List(Leaf('e',1), Leaf('t',2), Leaf('x',3)), makeOrderedLeafList(List(('t', 2), ('e', 1), ('x', 3))))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Eva/IdeaProjects/progfun-scala-epfl/patmat/src/test/scala/patmat/HuffmanSuite.scala:36:85: not found: value combine[0m
+[0m[[0m[31merror[0m] [0m[0m    assertEquals(List(Fork(Leaf('e',1),Leaf('t',2),List('e', 't'),3), Leaf('x',4)), combine(leaflist))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Eva/IdeaProjects/progfun-scala-epfl/patmat/src/test/scala/patmat/HuffmanSuite.scala:42:33: not found: value decode[0m
+[0m[[0m[31merror[0m] [0m[0m      assertEquals("ab".toList, decode(t1, encode(t1)("ab".toList)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Eva/IdeaProjects/progfun-scala-epfl/patmat/src/test/scala/patmat/HuffmanSuite.scala:42:44: not found: value encode[0m
+[0m[[0m[31merror[0m] [0m[0m      assertEquals("ab".toList, decode(t1, encode(t1)("ab".toList)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m
